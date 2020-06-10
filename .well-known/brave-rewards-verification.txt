@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: ash-elangovan.github.io
+Token: 378a96da368a92583bf46b5a1cafc114f38104f9ca6cf8a8e88de49a373f90f9
